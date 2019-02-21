@@ -69,8 +69,6 @@ https://youtu.be/EWbsClgWt1A
 Βασιζόμενοι στα παρακάτω σχέδια-σχήματα πραγματοποιήθηκαν οι ηλεκτρονικές συνδέσεις
 https://github.com/6geltrik/ploteer/blob/master/image/diagrama.png
 
-και
-
 https://github.com/6geltrik/ploteer/blob/master/image/shield.png
 
 
