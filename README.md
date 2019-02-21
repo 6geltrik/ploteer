@@ -70,6 +70,7 @@ https://youtu.be/EWbsClgWt1A
 https://github.com/6geltrik/ploteer/blob/master/image/diagrama.png
 
 και
+
 https://github.com/6geltrik/ploteer/blob/master/image/shield.png
 
 
