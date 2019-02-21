@@ -65,3 +65,6 @@ Unicorn G-Code for Inkscape: https://github.com/martymcguire/inkscape-unicorn
 ## ΠΑΡΟΥΣΙΑΣΗ ΚΑΤΑΣΚΕΥΗΣ
 https://youtu.be/EWbsClgWt1A
 
+## ΚΑΤΑΣΚΕΥΗ - ΛΕΙΤΟΥΡΓΕΙΑ 
+Βασιζόμενοι στα παρακάτω σχέδια-σχήματα πραγματοποιήθηκαν οι ηλεκτρονικές συνδέσεις συνδέσεις
+
