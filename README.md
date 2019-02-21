@@ -71,4 +71,14 @@ https://github.com/6geltrik/ploteer/blob/master/image/diagrama.png
 
 https://github.com/6geltrik/ploteer/blob/master/image/shield.png
 
+Για την λειτουργία του plotter  χρειάστηκαν 
 
+α. το περιβάλλον προγραμματισμού arduino ide  στο οποίο εγκαταστήσαμε
+
+β. το grbl  με σκοπό να το φορτώσουμε στο arduino. Πρόγραμμα για να επικοινωνεί  το 	arduino σε γλώσσα μηχανής g-code
+
+γ. Το inkscape για την επεξεργασία των εικόνων και σχεδίων.
+
+δ. Το Unicorn G-Code εγκαθιστούμε στο inkscape ώστε τα σχέδια του να μετατρέπονται σε 	αρχεία μορφής g-code.
+
+ε. Τέλος μας χρειάζεται το universalgcode το οποίο διαβάζει τα αρχεία g-code και 	επικοινωνεί με το plotter
